@@ -1,0 +1,36 @@
+body{
+    background-color: #59162F;
+}
+h1{
+    text-align: center;
+    color:white;
+}
+.skills{
+    color:white;
+    background-color:#151826;
+}
+
+.contact h2{
+    color:white;
+}
+.photo span{
+    color:white;
+}
+.photo{
+    text-align: center;
+}
+.contact{
+    color:white;
+    text-align: center;
+    background-color:#151826;
+
+}
+.experience{
+    color:white;
+    text-align: center;
+    background-color:#151826;
+}
+.line{
+    border-bottom: white solid 5px;
+    margin-bottom: 10px;
+}
