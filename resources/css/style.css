@@ -63,3 +63,14 @@ h1{
     border-right: #59162F solid 5px; 
     border-left: #59162F solid 5px;
 }
+.capabilities{
+    color:white;
+    text-align: left;
+    background-color:#151826;
+    border-right: #59162F solid 5px; 
+    border-left: #59162F solid 5px;
+}
+.capabilities table{
+    place-items: center;
+    text-align: center;
+}
