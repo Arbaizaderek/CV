@@ -82,3 +82,12 @@ h1{
 .footer a{
     color: white;
 }
+.title{
+    font-size: 30px;
+}
+.name{
+    font-size: 45px;
+}
+.contact a:hover{
+    text-decoration: underline;
+}
