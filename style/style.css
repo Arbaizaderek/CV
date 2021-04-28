@@ -1,0 +1,95 @@
+body{
+    background: #172313;
+}
+.photo img{
+    width: 350px;
+    height: auto;
+}
+.title{
+    background-color:#FFFFFF;
+    color:#172313;
+    font-size: 1.5em;
+    line-height: 2.45em;
+}
+.title h2{
+    font-size: 2em;
+}
+.technical{
+    background-color: #FFFFFF;
+}
+.underline{
+    border-bottom: solid #172313 6px ;
+}
+.technical img{
+    width: 50px;
+    height: auto;
+}
+.contact{
+    background-color: #FFFFFF;
+    font-size: 1.5em;
+}
+.contact a{
+    text-decoration: none;
+    color:#172313;
+}
+.contact a:hover{
+    text-decoration: underline #172313;
+}
+.contact img{
+    height: auto;
+    width: 4em;
+}
+.education{
+    background-color: #FFFFFF;
+}
+.education p{
+    font-size: 1.47em;
+    padding-left: 0.5em;
+}
+h3{
+    padding-left: 0.5em;
+}
+.social{
+    background-color: #FFFFFF;
+}
+.social img{
+    height: 5em;
+    width: auto;
+    margin-right: 0.8em;
+}
+.social a{
+    text-decoration: none;
+    font-size: 25px;
+    color:#172313;
+}
+.social a:hover{
+    text-decoration: underline #172313;
+}
+.soft{
+    background-color: #FFFFFF;
+}
+.soft figcaption{
+    font-size: 1.45em;
+}
+
+.job{
+    background-color: #FFFFFF;
+}
+.job p{
+    font-size: 1.32em;
+    padding-left: 0.4em;
+}
+.soft img{
+    width: auto;
+    height: 7.5em;
+}
+.footer{
+    background-color: #FFFFFF;
+}
+.footer a{
+    text-decoration: none;
+    color:#172313;
+}
+.footer a:hover{
+    text-decoration: underline #172313;
+}
